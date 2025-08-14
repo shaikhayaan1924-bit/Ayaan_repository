@@ -21,3 +21,18 @@ Task 2: Sum of Integers from 1 to 50 Using a Loop
      b. Used for loop from(1,50)
      c. Then added the number in for loop to the variable
      d. Showed the total sum with the print statement
+
+# Assignment-3
+Task 1: Calculate Factorial Using a Function
+     a. Created a function name factorial
+     b. Assigned a value 1 to an variable
+     c. Created a for loop in range(1,number+1) and then multiplied each iteration value with the variable assigned before.
+     d. Taken a number from user
+     e. Showed the factorial of number with the print statement
+
+Task 2: Using the Math Module for Calculations
+     a. Used math module
+     b. Taken number as an input from user.
+     c. printed the squareroot of the number using math.sqrt(number)
+     d. printed the logarithm of the number using math.log(number)
+     c. printed the sine in radian of the number using math.sin(number)
