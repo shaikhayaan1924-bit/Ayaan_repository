@@ -1,4 +1,4 @@
-# Ayaan_repository
+# Assignment-1
 1. Task1 (Arithmetic operations)
      a. Addition
      b. Subtraction
