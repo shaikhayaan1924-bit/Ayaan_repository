@@ -36,3 +36,20 @@ Task 2: Using the Math Module for Calculations
      c. printed the squareroot of the number using math.sqrt(number)
      d. printed the logarithm of the number using math.log(number)
      c. printed the sine in radian of the number using math.sin(number)
+
+# Assignment-4
+Task 1: Read a File and Handle Errors
+     a. Created a function read_file()
+     b. In that used try and except syntax. In try opened a file in read mode and used for loop in that to print content line by line.
+     c. In except FileNotFoundError printed file not found
+     d. Called the function
+
+Task 2: Write and Append Data to a File
+     a. Created a function write_append()
+     b. Created a variable where the user can give input
+     c. Opened a file in write mode where we have to write 
+     d. Then created another variable where extra content will be appended in the previous file 
+     e. And finally opened a file in read mode to display the full content to user
+     f. Called the function
+     b. 
+     
