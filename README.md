@@ -51,5 +51,18 @@ Task 2: Write and Append Data to a File
      d. Then created another variable where extra content will be appended in the previous file 
      e. And finally opened a file in read mode to display the full content to user
      f. Called the function
-     b. 
+
+# Assignment-5
+Task 1: Create a Dictionary of Student Marks
+     a. Created a students dictionary
+     b. Takes user input
+     c. Checks if the input name given is there in created dictionary then prints the markes of that student
+     d. Else prints student name not found
+
+Task 2: Demonstrate List Slicing 
+     a. Created an empty list
+     b. Used for loop to take numbers from 1 to 10
+     c. Appended all the numbers in empty list and printed the original list
+     d. Extracted the first five elements from the list "[:5]" and printed it
+     e. Reversed the extracted list and printed it also.
      
